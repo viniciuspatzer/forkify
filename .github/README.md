@@ -10,18 +10,18 @@
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 <br>
 
-## Clone
+### Clone
 ```sh
 git clone https://github.com/viniciuspatzer/forkify.git
 ```
 
-## Install
+### Install
 
 ```sh
 npm install
 ```
 
-## Usage
+### Usage
 
 ```sh
 npm run start
