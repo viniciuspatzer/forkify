@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Forkify 👋</h1>
+<h1 align="center">Welcome to forkify 👋</h1>
 
 ![GitHub Logo](./forkify.gif)
 
